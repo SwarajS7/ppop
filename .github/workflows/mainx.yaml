@@ -26,3 +26,5 @@ jobs:
           AWS_DEFAULT_REGION: us-east-1
           AWS_SESSION_TOKEN: ${{ secrets.AWS_SESSION_TOKEN }}
 
+          
+
