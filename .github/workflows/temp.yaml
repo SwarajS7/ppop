@@ -43,5 +43,3 @@ Resources:
       Name: gluetriggertrans
       Type: ON_DEMAND
       WorkflowName: crime-workflow    
-
-      
